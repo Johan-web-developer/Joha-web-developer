@@ -16,9 +16,11 @@ I'm student of Campuslands<br>I like to work in a team .<br>I'm quite versatile.
 ![](https://github-profile-trophy.vercel.app/?username=Johan-web-developer&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://raw.githubusercontent.com/JuanJoseDuranRinconCAMPUS2/JuanJoseDuranRinconCAMPUS2/output/snake.svg" alt="Snake animation" />
 
-
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jsrdxd4jfhayd3fmyir5w5fyle&count={count}" alt="Alt text">
+</p>
 ---
 [![](https://visitcount.itsvg.in/api?id=Johan-web-developer&icon=2&color=0)](https://visitcount.itsvg.in)
 
