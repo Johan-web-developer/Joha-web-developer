@@ -25,9 +25,7 @@ I'm student of Campuslands<br>I like to work in a team .<br>I'm quite versatile.
 <div align="left">
 </div>
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jsrdxd4jfhayd3fmyir5w5fyle&unique={true|1|on|yes}" alt="Alt text">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jsrdxd4jfhayd3fmyir5w5fyle&count={count}" alt="Alt text">
 </p>
 
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
