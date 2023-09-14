@@ -28,5 +28,5 @@ Hi 👋! My name is Johan, A passionate frontend and backend developer, from Col
 </p>
 
 <div align="center">
-  <img height="200" src=https://tenor.com/view/шайлушай-cat-smurf-smurf-cat-blue-smurf-cat-cat-gif-6669693003746082734"  />
+  <img  src="https://tenor.com/view/dog-cerberus-gif-25345229" />
 </div>
