@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm student of Campuslands<br>I like to work in a team .<br>I'm quite versatile.<br>I'm constantly learning new things.
+Hi 👋! My name is Johan, A passionate frontend and backend developer, from Colombia.
 
 
 ## 🌐 Socials:
