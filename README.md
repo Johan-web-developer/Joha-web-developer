@@ -27,4 +27,4 @@ I'm student of Campuslands<br>I like to work in a team .<br>I'm quite versatile.
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jsrdxd4jfhayd3fmyir5w5fyle&count=3">
 </p>
 
-
+<div class="tenor-gif-embed" data-postid="6669693003746082734" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/%D1%88%D0%B0%D0%B9%D0%BB%D1%83%D1%88%D0%B0%D0%B9-cat-smurf-smurf-cat-blue-smurf-cat-cat-gif-6669693003746082734">шайлушай Cat Smurf GIF</a>from <a href="https://tenor.com/search/%D1%88%D0%B0%D0%B9%D0%BB%D1%83%D1%88%D0%B0%D0%B9-gifs">шайлушай GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
