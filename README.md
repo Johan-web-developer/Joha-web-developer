@@ -28,5 +28,5 @@ Hi 👋! My name is Johan, A passionate frontend and backend developer, from Col
 </p>
 
 <div align="center">
-  <img  src="https://media.giphy.com/media/ROlbnsc7aCIL6Icq6h/giphy.gif" />
+  <img  src="https://media.giphy.com/media/ROlbnsc7aCIL6Icq6h/giphy.gif](https://i.gifer.com/hdt.gif)https://i.gifer.com/hdt.gif" />
 </div>
