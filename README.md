@@ -28,5 +28,5 @@ Hi 👋! My name is Johan, A passionate frontend and backend developer, from Col
 </p>
 
 <div align="center">
-  <iframe src="https://gifer.com/embed/hdt" width=480 height=712.500 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>](https://i.gifer.com/hdt.gif)https://i.gifer.com/hdt.gif
+   <img src="https://i.gifer.com/hdt.gif"/>
 </div>
