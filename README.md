@@ -1,6 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
 </div>
+
+
 # 💫 About Me:
 Hi 👋! My name is Johan, A passionate frontend and backend developer, from Colombia.
 
