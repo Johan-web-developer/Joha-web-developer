@@ -1,8 +1,3 @@
-<div id="header" align="center">
- <img src="https://giphy.com/embed/l3q2KRkOVYvi8WfU4" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img>
-</div>
-
-
 # 💫 About Me:
 Hi 👋! My name is Johan, A passionate frontend and backend developer, from Colombia.
 
